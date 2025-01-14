@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: The homepage of me
+description: Just a test
+plugins:
+  - jemoji
+url: "https://tg-hokudai.github.io/&quot;
+markdown: kramdown
