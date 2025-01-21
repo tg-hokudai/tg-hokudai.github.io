@@ -3,5 +3,5 @@ title: The homepage of me
 description: Just a test
 plugins:
   - jemoji
-url: "https://tg-hokudai.github.io/&quot;
+url: "https://tg-hokudai.github.io"
 markdown: kramdown
